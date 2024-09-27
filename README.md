@@ -1,2 +1,2 @@
 # HTML-Kopiervorlagen
-Virgefertigte Kopiervorlsgen für verschiedene Zwecke.
+Vorgefertigte Kopiervorlagen für verschiedene Zwecke.
