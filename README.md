@@ -6,8 +6,10 @@ Vorgefertigte Kopiervorlagen für verschiedene Zwecke.
 
 ### index.html
 
-Eine forgefertigte HTML-Startseite mit vielen Meta-Angaben
+Eine vorgefertigte HTML-Startseite mit vielen Meta-Angaben
+
 viele Kommentare
+
 HTML5
 
 ### manifest.json
