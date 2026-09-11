@@ -1,0 +1,41 @@
+
+/* Modernes CSS Reset, Stand 2026 */
+
+
+*, *::before, *::after {
+  box-sizing: border-box;      /* Padding und Border zählen zur Breite */
+}
+
+* {
+  margin: 0;                   /* keine geerbten Außenabstände */
+}
+
+body {
+  min-height: 100dvh;          /* dynamische Viewporthöhe statt 100vh */
+  line-height: 1.5;            /* angenehme Zeilenhöhe für Fließtext */
+  -webkit-font-smoothing: antialiased;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;             /* Medien sprengen nie ihren Container */
+}
+
+input, button, textarea, select {
+  font: inherit;               /* Formulare erben die Schrift */
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;   /* lange Wörter brechen sauber um */
+}
+
+h1, h2, h3, h4 {
+  text-wrap: balance;          /* ausgewogene Überschriften */
+}
+
+p {
+  text-wrap: pretty;           /* keine Schusterjungen im Fließtext */
+}
+
+
+/* Quelle: https://www.drweb.de/braucht-modernes-css-reset/ */
